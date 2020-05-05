@@ -1,1 +1,5 @@
+Heat Map dataset:
 https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports
+
+GIF dataset
+https://www.ufrgs.br/sig/mapas/covid19-rs/
