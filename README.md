@@ -6,4 +6,13 @@
 ![plot](images/corona_plot.png)
 
 # Coronavirus
-this code uses a daily database to display data in the form of a graph and map using the matplotlib and folium libraries.
+## Datascience applied to the spread of coronavirus
+## Used libraries:
+
+- [x] matplotlib
+- [x] pandas
+- [x] numpy
+- [x] geopandas
+- [x] folium
+- [x] imageio
+
