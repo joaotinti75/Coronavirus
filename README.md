@@ -14,5 +14,7 @@
 - [x] numpy
 - [x] geopandas
 - [x] folium
+- [x] math
 - [x] imageio
+- [x] datetime
 
